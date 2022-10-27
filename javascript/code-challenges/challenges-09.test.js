@@ -128,12 +128,12 @@ const characters = [
 ];
 
 const getHouses = (arr) => {
-  // let houses = [];
-  return arr.reduce((acc, eachElem) => {
+  let houses = [];
+  arr.reduce((acc, eachElem) => {
     acc.push(eachElem.house);
     return acc;
-  }, []);
-  // return houses;
+  }, houses);
+  return houses;
 };
 
 /*------------------------------------------------------------------------------------------------
