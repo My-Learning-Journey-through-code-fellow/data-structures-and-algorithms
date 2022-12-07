@@ -21,3 +21,22 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+
+
+
+
+Code Challenge 8
+
+# Challenge Summary
+<!-- Zipper merge 2 linked lists -->
+
+## Whiteboard Process
+<!-- Embedded whiteboard image -->
+[code challenge8](!![Alt text](vscode-remote://wsl%2Bubuntu/home/tdugar/projects/courses/301/data-structures-and-algorithms/assets/CodeChallenge8.jpg))
+
+## Approach & Efficiency
+<!-- Big 0 is O(n) on both time and space, we picked this method because it was the one most obvious to us. -->
+
+## Solution
+<!-- Show how to run your code, and examples of it in action -->
+[8, 6, 4, 2, 7, 5, 3, 1] is the output, [1,3,5,7], [2,4,6,8,] were the inputs.
