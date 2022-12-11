@@ -6,7 +6,7 @@
 
 ## Whiteboard-Process
 
-![Code Challenge 2](assets/CodeChallenge2.jpg)
+![Code Challenge 2](../assets/CodeChallenge2.jpg)
 
 ## Approach & Efficiency
 
